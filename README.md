@@ -5,8 +5,7 @@ I am a Student of Economic Informatics; from Bratislava, Slovakia
 manipulation and data analysis. Bachelor’s thesis – The Effect of Blockchain Technology in SCM.
 
 • Developed proficiency in e.g. R (regression models, hypothesis testing, time series analysis, advanced plotting, importing, and 
-reshaping large datasets), Excel (e.g. linear programming - Solver, functions), several mostly OOP languages (e.g. Python [Pandas, 
-NumPy], C++, C – functions, classes, data structures, pointers, and dynamic memory allocation, debugging, automating tasks…).
+reshaping large datasets), Excel (e.g. linear programming - Solver, functions), several mostly OOP languages (e.g. Python, C++ – functions, classes, data structures, pointers, and dynamic memory allocation, debugging, automating tasks…).
 
 • Proficient in database design including normalization and developing ERDs; skilled in writing SQL queries - joins, functions;
 competent in creating and updating schemas or views to ensure efficient data handling and integrity; primary focus on MySQL.
