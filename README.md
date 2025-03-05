@@ -13,7 +13,7 @@ competent in creating and updating schemas or views to ensure efficient data han
 • Experienced with basic Linux scripts or MySQL through LAMP stack projects like hosting common apps Prestashop or Nextcloud;
 designed a computer network for connecting 3 buildings as a university project; previously utilized GCP (VMs).
 
-• Actively learning web development (Node.JS, TS) – professional training provided by PosAm; working with GitHub. REST, Express, Angular, Bootstrap...
+• Actively learning web development – professional training provided by PosAm; working with GitHub. REST, Express, Angular, Bootstrap, NodeJS, TypeScript, Java, Spring Boot, DDD ...
 
 • Took several courses on Power BI on my initiative (data import and modeling, DAX calculations, interactive dashboards)
 
